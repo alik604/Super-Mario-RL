@@ -2,6 +2,17 @@
 > my fork of [MadMario](https://github.com/yfeng997/MadMario)
 PyTorch [official tutorial](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html) to build an AI-powered Mario.
 
+## My Resources & Notes
+0. [Official docs](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)
+1. [This](https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/)
+2. [This](https://www.analyticsvidhya.com/blog/2021/06/playing-super-mario-bros-with-deep-reinforcement-learning/)
+3. [This](https://medium.com/geekculture/a-simple-guide-to-reinforcement-learning-with-the-super-mario-bros-environment-495a13974a54)
+4. [This](https://github.com/dredwardhyde/reinforcement-learning/tree/main/mario_enviroment)
+5. [This](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/54f5097c720c6f2656219ab14a4e7431/mario_rl_tutorial.ipynb)
+6. [This](https://github.com/uvipen/Super-mario-bros-A3C-pytorch)
+
+
+
 ## Set Up
 1. Install [conda](https://www.anaconda.com/products/individual)
 2. Install dependencies with `environment.yml`
